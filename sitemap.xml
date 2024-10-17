@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jorjalinke.github.io/myportfolio/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jorjalinke.github.io/myportfolio/</loc>
+</url>
+<url>
+<loc>https://jorjalinke.github.io/myportfolio/computer-work-in-the-year.html</loc>
+<lastmod>2024-10-17T09:31:24+02:00</lastmod>
+<image:image>
+<image:loc>https://jorjalinke.github.io/myportfolio/media/posts/1/gallery/Screenshot-2024-02-01-090427-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jorjalinke.github.io/myportfolio/media/posts/1/gallery/Screenshot-2024-02-29-082927-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jorjalinke.github.io/myportfolio/media/posts/1/gallery/Screenshot-2024-03-07-082508-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jorjalinke.github.io/myportfolio/media/posts/1/gallery/Screenshot-2024-03-07-093520-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jorjalinke.github.io/myportfolio/media/posts/1/gallery/Screenshot-2024-03-14-090915-2-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jorjalinke.github.io/myportfolio/media/posts/1/gallery/Screenshot-2024-03-14-081820-2-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jorjalinke.github.io/myportfolio/media/posts/1/gallery/Screenshot-2024-07-18-092746-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jorjalinke.github.io/myportfolio/media/posts/1/gallery/Screenshot-2024-08-29-090055-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
